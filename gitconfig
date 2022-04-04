@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = miromiro@posteo.de
+	name = Bora Kim
